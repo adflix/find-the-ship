@@ -1,0 +1,14 @@
+echo "venv/
+.env
+data/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints
+models/
+*.h5
+*.pth" >> .gitignore
